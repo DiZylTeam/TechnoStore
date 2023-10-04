@@ -80,8 +80,7 @@ public class LapTops {
 
     @Override
     public String toString() {
-        return "LapTops{" +
-                "id = " + id +
+        return  "{id = " + id +
                 ", title = " + title + '\'' +
                 ", ram = " + ram +
                 ", ssd = " + ssd +
